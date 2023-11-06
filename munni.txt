@@ -1,1 +1,2 @@
-This is the other file for stashing 
+This is the other file for stashing
+Adding the new line in the my file for stashing
