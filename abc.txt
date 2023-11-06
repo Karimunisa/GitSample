@@ -1,1 +1,2 @@
 second file for the stashing file
+Adding the new line for to know stashing
